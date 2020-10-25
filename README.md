@@ -1,7 +1,7 @@
 # Healthcare-management-Portal-for-doctors---Java-Project
 An application portal for doctor to access their patient’s health diagnosis.
 
-The main aim of this project is to design an effective application portal for ensuring health care The main aim of this project is to design an effective application portal for ensuring health care management strategies in a clinic where the patients' health issues and the records of the treatment can be maintained so that a proper improvement in health can be assessed easily for the doctors and the patient need not to detail about his/her health issue to the doctor every time specifically.  
+The main aim of this project is to design an effective application portal for ensuring health care management strategies in a clinic where the patients' health issues and the records of the treatment can be maintained so that a proper improvement in health can be assessed easily for the doctors and the patient need not to detail about his/her health issue to the doctor every time specifically.  
 
 
 The health care management portal includes:
